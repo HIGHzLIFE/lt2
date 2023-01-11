@@ -52,10 +52,11 @@ NightFall GUI for LT2
     [Help]
     - How Yo Use Features
  
-    [Theme]
+    [Settings]
     - Dark Contrast
     - Glow 
     - Light Contrast
     - Background
     - Text Color
     - Accent
+    - Toggle GUI
