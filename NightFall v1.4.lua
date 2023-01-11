@@ -1,11 +1,6 @@
 --[[--------------------------------------------------------------------------------------------------------------------------
-    NightFall GUI - Credits
- 
-    Developer:
-    - Ecstasy. / Narcotic / Nix (Developer)
- 
-    UI Library:
-    - Vinyx. (Open Source)
+      NightFall Developer:
+    - Ecstasy. (AKA) Nix.
     ----------------------------------------------------------------------------------------------------------------------------]]
 
 -- This file was generated using Luraph Obfuscator v13.6.2
