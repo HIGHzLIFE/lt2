@@ -116,7 +116,7 @@ NightFall GUI for LT2
     - auto maxland dupe
     - manual maxland dupe
 
-    [ Wood]
+    [Wood]
     - Bring all logs
     - Bring tree
     - Tp all planks (buggy)
