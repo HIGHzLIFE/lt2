@@ -3,7 +3,7 @@ NightFall GUI for LT2
 
 # Discord Server: https://discord.gg/vB79aWWQdE
 
-**Features**:
+**Tabs**:
 
     [Tabs]
     - Home
@@ -25,7 +25,9 @@ NightFall GUI for LT2
     - Credits
     - Changelog
     - Settings
+```
 
+**Features**:
     [Home]
     - Information
     - Newest Changes
