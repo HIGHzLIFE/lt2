@@ -28,7 +28,7 @@ NightFall GUI for LT2
 ```
 
 **Features**:
-
+```
     [Home]
     - Information
     - Newest Changes
@@ -188,3 +188,4 @@ NightFall GUI for LT2
     - Periodic fun facts
     - Show total players & friends
     - Destroy UI
+```
