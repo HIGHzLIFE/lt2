@@ -28,7 +28,7 @@ NightFall GUI for LT2
 ```
 
 **Features**:
-```md
+```yaml
     [Home]
     - Information
     - Newest Changes
