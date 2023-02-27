@@ -28,7 +28,7 @@ NightFall GUI for LT2
 ```
 
 **Features**:
-```ini
+```md
     [Home]
     - Information
     - Newest Changes
