@@ -4,7 +4,7 @@ NightFall GUI for LT2
 # Discord Server: https://discord.gg/vB79aWWQdE
 
 **Tabs**:
-
+```
     [Tabs]
     - Home
     - Local
