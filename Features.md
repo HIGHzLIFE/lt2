@@ -25,9 +25,7 @@ NightFall GUI for LT2
     - Credits
     - Changelog
     - Settings
-```
-Current Features:
-```ini
+
     [Home]
     - Information
     - Newest Changes
