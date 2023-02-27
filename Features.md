@@ -28,6 +28,7 @@ NightFall GUI for LT2
 ```
 
 **Features**:
+
     [Home]
     - Information
     - Newest Changes
