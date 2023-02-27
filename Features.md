@@ -138,7 +138,7 @@ Current Features:
     - Chat spy
     - Btools
 
-    [Fun] - may add sections | client side, Non client side
+    [Fun]
     - Reset character
     - Limp walk (serversided)
     - gun physics v3 (serverside untested)
