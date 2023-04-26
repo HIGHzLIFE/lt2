@@ -1,191 +1,140 @@
 # NightFall
 NightFall GUI for LT2
 
-# Discord Server: https://discord.gg/vB79aWWQdE
+# Discord Server: https://discord.gg/NightfallGUI or dsc.gg/NightfallLT2
 
 **Tabs**:
 ```yaml
     [Tabs]
-    - Home
-    - Local
-    - World
-    - Teleportats
-    - Players
-    - Base
-    - Base Sorter
-    - Dupe
+    - Player
+    - Game
     - Wood
-    - Vehicle
-    - Misc
-    - Fun
-    - Grief
-    - Servers
-    - Methods
-    - Support
-    - Credits
-    - Changelog
+    - Slot
+    - Items
+    - AutoBuy
+    - Wood
+    - Troll
     - Settings
 ```
 
 **Features**:
 ```yaml
-    [Home]
-    - Information
-    - Newest Changes
-    - Release Notes
-    - Dev Logs
-    - Discord
-    - LT2 Unsecure Edition
++ Player Tab
+- Walk Speed
+- Jump Power 
+- Sprint Speed
+- Sprint Key
+- Infinite Jump
+- Fly Speed
+- Fly
+- No-Clip
+- Field Of View
+- Player Light
+- Invisible
+- Anti-AFK
+- BTools
+- Safe Suicide
+- Waypoints
+- Teleport To Player
+- Teleport To Player's Plot
+- Teleport Key
 
-    [Local]
-    - Walk Speed
-    - Jump Power
-    - Character Height
-    - Field of View
-    - Zoom distance
-    - Death bypass
-    - No clip
-    - Shift to sprint
-    - Shift to sprint speed
-    - Custom dragger
-    - Invisible
-    - Infinite Jump
-    - Ctrl Click TP
-    - Flashlight Range
-    - Flashlight
 
-    [World]
-    - Always day
-    - Always night
-    - No fog
-    - World gravity
-    - Xray mode
-    - Solid water
-    - Bridge Up/Down
-    - World brightness
-    - Leaf Colors
-    - Realistic Roads
-    - Better Water Color
-    - Path to palm
-    - Bridge to lava
-    - Path to swamp
-    - Path to safari 
-    - Path to snow glow
-    - No shadows
-    - Remove water
-    - Remove lava
-    - Remove Shrine doors
-    - Remove snow area boulders
-    - Remove volcano boulders
-    - Blue light filter
-    - Improve graphics
-    - Better graphics
-    - Bloom graphics
++ Game Tab
+- Always Day
+- Always Night
+- Clear Fog
+- Global Shadows
+- Spook Mode
+- Better Graphics
+- Brightness
+- Remove Water
+- Bridge Down
+- Remove Trees 
+- Disable Blueprint Highlight
+- Get Green Box
+- Destroy Green Box
+- Christmas Map Theme
+- Halloween Map Theme
+- WillyWonker Map Theme
+- Autmn Map Theme 
  
-    [Teleportation]
-    - To players
-    - To player base
-    - Waypoint
-    - Stores
-    - Tree region / bioems
++ Slot Tab
+- Load Selected Slot
+- Deload Current Slot 
+- Save Current Slot
+- Fast Load
+- Free Land
+- Max Land
+- Land Art 
+- Sell Sold Sign
+- Plot Color
+- Anti Blacklist 
+- Dupe Inventory
+- Dupe Power To Build With Ease To Selected Slot
+- Center Square Dupe 
+- Donate Base Dupe 
+- Vehicle Speed 
+- Steer Angle
+- Flip Vehicle
+- Always Stop On Pink 
+- Vehicle Spawner 
+- Clear Selected Type 
+- Wipe Current Base
+- Click To Delete 
     
-    [Players]
-    - Mimic player movement
-    - Walk to player
-    - Spectate players
-    - Follow players
-    - Hump players
-    - Locate players
++ Item Tab
+- Item Iteration
+- Item Stacker 
+- Abort Stacker 
+- Hard Dragger 
+- Count Items 
+- Click To Unbox 
+- Far Axe Equip 
+- Remove Blueprint Percentage
+- Max Sawmill Size
+- Lowest Sawmill Size
 
-    [Base]
-    - Load slot
-    - Free land
-    - Max land
-    - TP to your base
-    - Land color/reset land color
-    - Land materials pavement/sandstone/normal
++ Auto Buy Tab
+- Purchase Selected Item
+- Abort Purchasing 
+- Fast Checkout 
+- Purchase All Blueprints 
+- Purchase Toll Bridge
+- Purchase Ferry Ticket 
+- Purchase Power To Build With Ease 
     
-    [Base Sorter]
-    - Count axes in inventory
-    - Count total axes
-    - Drop axes
-    - Axe Item sorter
++ Wood Tab
+- Bring Selected Tree 
+- Auto Sell
+- Abort Cutting 
+- Blueprint Filler
+- Plank To Blueprint
+- Unfill Structures 
+- One Unit Cutter
+- Click To Sell
+- Bring All Logs 
+- Sell All Logs 
+- Bring All Planks
+- Sell All Planks
+- Dismember Tree
+- Mod Wood
 
-    [Dupe]
-    - Base donation / middle plot
-    - auto maxland dupe
-    - manual maxland dupe
-
-    [Wood]
-    - Bring all logs
-    - Bring tree
-    - Tp all planks (buggy)
-    - Tp cut trees
-    - Tp planks
-    - Sell all trees
-    - Sell all planks
-
-    [Vehicle]
-    - Unflip car
-
-    [Misc]
-    - Quick chat
-    - Toggle chat
-    - Magic carpet
-    - FPS counter
-    - Free camera
-    - Chat translator
-    - Chat spoofer
-    - Chat spy
-    - Btools
-
-    [Fun]
-    - Reset character
-    - Limp walk (serversided)
-    - gun physics v3 (serverside untested)
-    - Lego land (serversided)
-    - Minecraft builder (serversided)
-    - Clock tower (serversided)
-    - Battery flashlight
-    - Pee script (serversided)
-    - Thomas the train (serversided)
-    - Spray Can (serversided)
-    - Police morph (serversided)
-    - FE zen
-    - Power wings
-    - Remove arms (all can see)
-    - Remove legs (all can see)
-    - Become a snake (all can see)
-    - Big head mode (serverside untested)
-    - Gymnastics (all can see)
-    - Drink a soda (serversided)
-    - HoverBoard (all see you float)
-    
-    [Grief]
-    - Pull everything to you
-    - Throw everything
-    - Throw at player (testing)
-
-    [Server]
-    - Server hop
-    - Rejoin
-    - Exit game
-
-    [Methods]
-    - Infinite signs method
-    - middle plot dupe method
-
-    [Support]
-    - Report bug
-    - Request feature
-    - Nightfall documentation
-
-    [Settings]
-    - Spoof display name
-    - Toggle UI
-    - AntiAFK
-    - Player join/leave notifications
-    - Periodic fun facts
-    - Show total players & friends
-    - Destroy UI
++ Troll Tab
+- {Follow, Bring, Kill, Rock Bridge, Spectate}
+- Tomahawk Axe Fling 
+- Clear All Shop Items 
+- Vehicle Annoy 
+- Sit In Any Vehicle
++ Settings Tab
+- Hide UI
+- Destroy Gui
+- Save Config
+- Dark Mode 
+- Join/Leave Notifications
+- Re-Join Game
+- Ferry Departure Time
+- Ping
+- Load Status
+- Join Discord
 ```
