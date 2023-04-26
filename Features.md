@@ -17,6 +17,7 @@ NightFall GUI for LT2
     - Settings
 ```
 
+
 **Features**:
 ```yaml
 + Player Tab
@@ -59,6 +60,7 @@ NightFall GUI for LT2
 - WillyWonker Map Theme
 - Autmn Map Theme 
  
+ 
 + Slot Tab
 - Load Selected Slot
 - Deload Current Slot 
@@ -83,6 +85,7 @@ NightFall GUI for LT2
 - Wipe Current Base
 - Click To Delete 
     
+    
 + Item Tab
 - Item Iteration
 - Item Stacker 
@@ -95,6 +98,7 @@ NightFall GUI for LT2
 - Max Sawmill Size
 - Lowest Sawmill Size
 
+
 + Auto Buy Tab
 - Purchase Selected Item
 - Abort Purchasing 
@@ -103,6 +107,7 @@ NightFall GUI for LT2
 - Purchase Toll Bridge
 - Purchase Ferry Ticket 
 - Purchase Power To Build With Ease 
+    
     
 + Wood Tab
 - Bring Selected Tree 
@@ -120,12 +125,14 @@ NightFall GUI for LT2
 - Dismember Tree
 - Mod Wood
 
+
 + Troll Tab
 - {Follow, Bring, Kill, Rock Bridge, Spectate}
 - Tomahawk Axe Fling 
 - Clear All Shop Items 
 - Vehicle Annoy 
 - Sit In Any Vehicle
+
 
 + Settings Tab
 - Hide UI
