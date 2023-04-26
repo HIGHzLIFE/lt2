@@ -125,10 +125,10 @@ NightFall GUI for LT2
 - Tomahawk Axe Fling 
 - Clear All Shop Items 
 - Vehicle Annoy 
-- Sit In Any Vehicle```
+- Sit In Any Vehicle
 
 + Settings Tab
-```- Hide UI
+- Hide UI
 - Destroy Gui
 - Save Config
 - Dark Mode 
