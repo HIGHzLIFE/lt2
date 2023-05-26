@@ -115,7 +115,9 @@ NightFall GUI for LT2
 - Abort Cutting 
 - Blueprint Filler
 - Plank To Blueprint
-- Unfill Structures 
+- Unfill Structures
+- Auto Chop
+- Chop Line Color
 - One Unit Cutter
 - Click To Sell
 - Bring All Logs 
@@ -138,9 +140,10 @@ NightFall GUI for LT2
 - Hide UI
 - Destroy Gui
 - Save Config
-- Dark Mode 
+- Dark Mode
 - Join/Leave Notifications
 - Re-Join Game
+- Report A Bug/Suggestion
 - Ferry Departure Time
 - Ping
 - Load Status
