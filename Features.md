@@ -34,7 +34,6 @@ NightFall GUI for LT2
 - Invisible
 - Anti-AFK
 - BTools
-- Safe Suicide
 - Waypoints
 - Teleport To Player
 - Teleport To Player's Plot
@@ -72,7 +71,6 @@ NightFall GUI for LT2
 - Sell Sold Sign
 - Plot Color
 - Anti Blacklist 
-- Dupe Inventory
 - Dupe Power To Build With Ease To Selected Slot
 - Center Square Dupe 
 - Donate Base Dupe 
